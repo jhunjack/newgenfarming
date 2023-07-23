@@ -1,2 +1,2 @@
 # newgenfarming
-https://jhunjack.github.io/newgenfarming/
+#https://jhunjack.github.io/newgenfarming/
